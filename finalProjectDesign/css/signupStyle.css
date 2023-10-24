@@ -266,7 +266,12 @@ button:focus {
     padding: 1rem;
     margin-top: 80px;
 }
-
+.sources {
+    display: flex;
+    justify-content: right;
+    color: var(--color-brown);
+    font-size: 10px;
+}
 /* Footer */
 #contact {
     position: relative;
